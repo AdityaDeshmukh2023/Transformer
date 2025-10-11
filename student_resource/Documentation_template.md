@@ -1,9 +1,8 @@
 # ML Challenge 2025: Smart Product Pricing Solution Template
 
-**Team Name:** [Transformer]
-**Team Members:** [Aditya Deshmukh, Ninad Gawali, 
-Harshal, Adwait Jahagirdar]
-**Submission Date:** [13th Octomber] 
+**Team Name:** Transformer    
+**Team Members:** Aditya Deshmukh, Ninad Gawali, Harshal, Adwait Jahagirdar    
+**Submission Date:** 13th October  
 
 ---
 
